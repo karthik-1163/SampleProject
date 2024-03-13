@@ -37,7 +37,7 @@ public class Main {
         while (st.hasMoreTokens()) {
             System.out.println(st.nextElement());
         }
-
+        System.out.println("thank oyu");
         return;
     }
 }
